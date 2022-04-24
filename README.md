@@ -1,4 +1,4 @@
-# beatmaker_withGAN
+# beatmaker_with_gan
 
 Generate beats used in freestyle rap from deep learning.  
 
