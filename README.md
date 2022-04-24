@@ -14,6 +14,15 @@ We do not plan to release the code, but the network structure is available in ea
 ![pict](https://user-images.githubusercontent.com/52575713/164954235-54693522-9bc3-4174-882f-817518060d97.PNG)
 
 
+beatmaker with GAN (activation = leakyrelu)  
+https://www.youtube.com/watch?v=Ga1udbwv51Q  
+
+beatmaker with GAN (activation = relu)  
+https://www.youtube.com/watch?v=DLbodpxVjlk  
+
+
+
+
 
 # library version
 
