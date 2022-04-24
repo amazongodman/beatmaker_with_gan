@@ -25,6 +25,21 @@ https://www.youtube.com/watch?v=Ga1udbwv51Q
 
 
 
+# result
+
+
+![001](https://user-images.githubusercontent.com/52575713/164958099-f196d911-2ce1-4025-baac-67c9f9879ffa.png)
+(original beat::蜂と蝶(SOUL SCREAM))
+
+![002](https://user-images.githubusercontent.com/52575713/164958101-f7858ec3-6738-43cb-94fd-62ae3bc46d90.png)
+(original beat::合法的トビ方ノススメ(Creepy Nuts))
+
+
+
+
+
+
+
 # library version
 
 Keras                   2.3.1  
