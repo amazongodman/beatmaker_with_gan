@@ -35,9 +35,11 @@ https://www.youtube.com/watch?v=Ga1udbwv51Q
 (original beat::合法的トビ方ノススメ(Creepy Nuts))
 
 
+![color_248](https://user-images.githubusercontent.com/52575713/164958167-ad0ba23f-1092-473b-9864-9ced2eb96c99.png)
+(generate relu epoch 248)
 
-
-
+![color_253](https://user-images.githubusercontent.com/52575713/164958150-2bee2db5-a3ce-48ff-bcfc-ab81cb2ab70c.png)
+(generate leakyrelu epoch 253)
 
 
 # library version
